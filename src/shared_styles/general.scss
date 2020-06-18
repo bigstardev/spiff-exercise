@@ -1,0 +1,22 @@
+ul, ol {
+  li {
+    padding: 4px 0;
+  }
+}
+
+body {
+  color: $gray-darkest;
+  font-family: $standard-font;
+}
+
+.layout-container {
+  margin: 0 auto;
+  max-width: 1100px;
+  min-width: 600px;
+  padding: 50px;
+  width: auto;
+}
+
+.block {
+  padding: 20px 0;
+}

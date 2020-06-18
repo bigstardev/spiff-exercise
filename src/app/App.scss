@@ -1,0 +1,25 @@
+@import "../shared_styles/resets.scss";
+@import "../shared_styles/colors.scss";
+@import "../shared_styles/typography.scss";
+@import "../shared_styles/general.scss";
+@import "../exercise/Exercise.scss";
+
+.App {
+  .exercise-index {
+    margin: 30px 0;
+    a {
+      border-left: 4px solid transparent;
+      padding-left: 10px;
+      &.active {
+        border-color: $green;
+      }
+    }
+  }
+  .exercise-links {
+    line-height: 1.45;
+  }
+  .exercise-show {
+    border-top: 1px solid $gray-lighter;
+    padding-top: 50px;
+  }
+}

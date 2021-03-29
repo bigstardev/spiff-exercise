@@ -1,25 +1,26 @@
 # Spiff Front-end Candidate Coding Exercises
 
 ### Purpose
-These coding exercises are meant to help Spiff gain insight into how you would tackle actual feature requests by the product team. The exercises are relatively simple, but you are encouraged to treat them as if you were working on the Spiff codebase. This means applying the same attention to code quality, tests, pull requests, commits, etc as you normally would. **Quality is valued above quantity.**
+These coding exercises are meant to help Spiff gain insight into how you would tackle actual feature requests by the product team. The exercises are relatively simple, but you are encouraged to treat them as if you were working on the Spiff codebase. **This means applying the same attention to code quality, tests, pull requests, commits, etc as you normally would. Quality is valued above quantity.**
 
 ### Instructions
-1. Clone the repo - This is your start time
-2. Retreive dependencies: `yarn`, and start the dev server: `yarn start`. The app should open on http://localhost:3000
-3. This will take you to an index that lists the exercises. For each exercise:
+1. Clone the repo **(don't fork)** - This is your start time
+2. Point the remote origin to a new repo under your account 
+3. Retreive dependencies: `yarn`, and start the dev server: `yarn start`. The app should open on http://localhost:3000
+4. This will take you to an index that lists the exercises. For each exercise:
   - click the exercise link from the index page
   - v1:
     - review v1 specs
     - checkout a new branch
-    - complete the `Solution` compenent for the exercise (the ProgressBar exercise is found in ProgressBar.js)
+    - complete the `Solution` component for the exercise (the ProgressBar exercise is found in ProgressBar.js)
     - create a pull request when finished
   - v2:
     - review v2 specs
     - checkout a new branch
     - build on v1 to meet v2 requirements
     - create a pull request when finished
-4. The last commit is your end time
-5. Send a link to your repo to casey@spiff.com
+5. The last commit is your end time
+6. Send a link to your repo to casey@spiff.com
 
 ### Guidelines
 

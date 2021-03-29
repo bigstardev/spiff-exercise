@@ -11,12 +11,12 @@ These coding exercises are meant to help Spiff gain insight into how you would t
   - click the exercise link from the index page
   - v1:
     - review v1 specs
-    - checkout a new branch
+    - create a new branch off of master
     - complete the `Solution` component for the exercise (the ProgressBar exercise is found in ProgressBar.js)
     - create a pull request to your repo when finished
   - v2:
     - review v2 specs
-    - checkout a new branch
+    - create a new branch off of v1
     - build on v1 to meet v2 requirements
     - create a pull request to your repo when finished
 5. The last commit is your end time

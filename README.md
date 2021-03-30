@@ -8,17 +8,17 @@ These coding exercises are meant to help Spiff gain insight into how you would t
 2. Point the remote origin to a new repo under your account 
 3. Retreive dependencies: `yarn`, and start the dev server: `yarn start`. The app should open on http://localhost:3000
 4. This will take you to an index that lists the exercises. For each exercise:
-  - click the exercise link from the index page
-  - v1:
-    - review v1 specs
-    - create a new branch off of master
-    - complete the `Solution` component for the exercise (the ProgressBar exercise is found in ProgressBar.js)
-    - create a pull request to your repo when finished
-  - v2:
-    - review v2 specs
-    - create a new branch off of v1
-    - build on v1 to meet v2 requirements
-    - create a pull request to your repo when finished
+    - click the exercise link from the index page
+    - v1:
+      - review v1 specs
+      - create a new branch off of master
+      - complete the `Solution` component for the exercise (the ProgressBar exercise is found in ProgressBar.js)
+      - create a pull request on your repo when finished
+    - v2:
+      - review v2 specs
+      - create a new branch off of v1
+      - build on v1 to meet v2 requirements
+      - create a pull request on your repo when finished
 5. The last commit is your end time
 6. Send a link to your repo to casey@spiff.com
 

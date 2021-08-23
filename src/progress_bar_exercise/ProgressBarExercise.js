@@ -1,5 +1,7 @@
 import React from "react";
 import Exercise from "../exercise/Exercise";
+import UseTimer from './useTimer'
+
 
 const ProgressBarExercise = () => {
   return (
@@ -18,5 +20,10 @@ export default ProgressBarExercise;
 // ----------------------------------------------------------------------------------
 
 const Solution = () => {
-  return <div>Add solution here</div>;
+
+
+  return (
+    <UseTimer />
+  )
+
 };

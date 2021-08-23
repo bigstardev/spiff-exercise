@@ -3,7 +3,8 @@
 @import "../shared_styles/typography.scss";
 @import "../shared_styles/general.scss";
 @import "../exercise/Exercise.scss";
-
+@import '../progress_bar_v1/progressiveBar.scss';
+@import "../progress_bar_exercise/progressBarExercise.scss";
 .App {
   .exercise-index {
     margin: 30px 0;
